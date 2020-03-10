@@ -7,6 +7,6 @@ Sodapps are simple webapps made to solve specific problems experienced by studen
 
 Each page has its own Github repo, and is accessible by everyone to fork, pull request or simply view. 
 
-If you have any questions, feel free to send an email at pierrelf@kth.se
+If you have any questions, feel free to send an email at hello@sodapps.io
 
 ~Pierre
