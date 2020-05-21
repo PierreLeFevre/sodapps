@@ -135,6 +135,7 @@ section h2 {
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
     background-color: white;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #222222;
